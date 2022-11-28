@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.hakiminazli.lil.learningspring.LearningSpringApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.541 s - in com.hakiminazli.lil.learningspring.LearningSpringApplicationTests
